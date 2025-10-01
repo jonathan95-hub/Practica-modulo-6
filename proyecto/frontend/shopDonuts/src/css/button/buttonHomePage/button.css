@@ -1,0 +1,24 @@
+.buttonHome{
+    padding: 10px;
+    border-radius: 40px;
+    background: #2b03539f;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 10px;
+    font-family: "Frijole";
+}
+.buttonHome:hover{
+    transform: scale(1.10);
+    transition: 0.5s;
+    background: #8d2feb;
+    color: #2b0353;
+}
+.containerButtonHome{
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+

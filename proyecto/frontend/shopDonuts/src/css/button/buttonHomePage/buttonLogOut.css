@@ -1,0 +1,11 @@
+.buttonlogOut{
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+    margin-inline-end:100px;
+    margin-block-start:20px
+}
+
+.buttonlogOut:hover{
+    transform: scale(1.10);
+}

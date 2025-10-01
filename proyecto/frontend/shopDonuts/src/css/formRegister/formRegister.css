@@ -1,0 +1,36 @@
+.formRegister{
+    display: flex;
+    flex-direction: column;
+    text-align: end
+}
+
+.containerButtonRegister{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.titleRegister{
+    font-size: 100px;
+    font-family: "Frijole";
+    font-size: 80px;
+    color: #250249
+}
+
+.h3FormRegister{
+    font-size: 29px;
+    color: #20023f;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.buttonFormRegister{
+    border-radius: 16px;
+    padding: 6px;
+    background-color: #bd98e2 ;
+    color: #20023f;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,9 @@
+.buttonGoRegister{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #49068d;
+    font-style: italic;
+    cursor: pointer;
+}

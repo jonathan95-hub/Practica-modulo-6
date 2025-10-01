@@ -1,0 +1,30 @@
+.containerMyProfile{
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    padding:250px;
+}
+.containerMyProfileCart{
+    padding: 60px;
+    border: 12px solid #49068d;
+    border-radius: 18px;
+    background: #60526e;
+}
+
+.titleProfile{
+    font-size: 40px;
+    font-family: 'Frijole';
+}
+
+.spanProfile{
+    font-family: 'Frijole';
+    color: #48008f;
+    font-size: 20px;
+}
+.spanProfile2{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Frijole';
+    color: aliceblue;
+    font-size: 16px;
+}

@@ -1,0 +1,38 @@
+.containerFormCreate{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height:100vh;
+}
+.titleFormCreate{
+    font-size: 60px;
+    font-family: 'Frijole';
+    
+}
+.containerFormCreateCart{
+    border: 2px solid;
+    height:70vh;
+    place-content: center; text-align: right;
+    background: #8c31e7;
+}
+.containerFormCreateInput{
+    place-content: center;
+}
+.labelContainerFormCreate{
+    font-family: 'Frijole';
+}
+
+.containerButtonFormCreate{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    gap: 20px;
+}
+.ButtonFormCreate{
+    background: #440286;
+    padding: 8px;
+    border-radius: 18px;
+    color: #fff;
+}
